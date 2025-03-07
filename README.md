@@ -35,12 +35,7 @@ Environment variables:
 ```bash
 pip install anthropic requests nltk
 ```
-3. Download NLTK stopwords:
-```python
-import nltk
-nltk.download("stopwords")
-```
-4. Set up environment variables:
+3. Set up environment variables:
 ```bash
 export github_token='your_github_token'
 ```
